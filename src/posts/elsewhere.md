@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Elsewhere
+title: 002. Elsewhere
 date: 2019-10-13T22:10:14.810Z
 tags:
   - Post
