@@ -1,10 +1,12 @@
 ---
 layout: layouts/post.njk
-title: 002. Elsewhere
+title: Elsewhere
 date: 2019-10-13T22:10:14.810Z
 tags:
   - Post
 ---
+#002. Presence
+
 In the roll-call, when they call your name you reply with "present", as in I'm here, right now, in this space. 
 
 In the mindfulness sense, presence is, if I've understood things correctly, that we should be where we are as much as we can. Our whole mind should be here, and now. 
