@@ -5,7 +5,7 @@ date: 2019-10-20T08:27:09.235Z
 tags:
   - Post
 ---
-# 003. Consistency
+# 003. Force (Consistency)
 
 Why is it so hard to to stay consistent? The common thoughts on this is that we're too focused on outcomes rather than process, meaning that the delta between the daily exercise (e.g. 30 minute run) and the final goal (perfect body) becomes too wide, resulting in a disconnect and lost motivation. I'm not sure that it's that simple, but if true, we have to get ourselves much more enamoured with the process. 
 

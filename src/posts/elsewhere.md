@@ -5,7 +5,7 @@ date: 2019-10-13T22:10:14.810Z
 tags:
   - Post
 ---
-# 002. Presence
+# 002. Elsewhere (Presence)
 
 In the roll-call, when they call your name you reply with "present", as in I'm here, right now, in this space. 
 
