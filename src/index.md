@@ -1,9 +1,9 @@
 ---
 layout: home
-title: Boring Shop
+title: Index of
 postsHeading: Latest posts
 archiveButtonText: See all posts
-socialImage: ''
+socialImage: ""
 ---
 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
 ▒▒▒▒▒▒▒▒▒▒▒▒████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒
