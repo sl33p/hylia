@@ -1,14 +1,5 @@
-{% extends 'layouts/base.njk' %}
-{% set pageType = 'Post' %}
-
-{# Intro content #}
-{% set introHeading = title %}
-{% set introSummary %}
-  {% if date %}
-    | <time datetime="{{ date | w3DateFilter }}" class="dt-published">{{ date | dateFilter }}</time>
-  {% endif %}
-  <span>| {{ helpers.getReadingTime(content) }} minutes</span>
-{% endset %}
+{% extends 'layouts/base.njk' %}{% set pageType = 'Post' %}{# Intro content #}{% set introHeading = title %}{% set introSummary %}{% if date %} | <time datetime="{{ date | w3DateFilter }}" class="dt-published">{{ date | dateFilter }}</time>{% endif %}<span> | {{ helpers.getReadingTime(content) }} second read</span>
+{% endset %}</pre>
 
 {% block content %}
   <main id="main-content" tabindex="-1">
