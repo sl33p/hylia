@@ -6,7 +6,7 @@ date: 2020-05-12T17:15:35.546Z
 tags:
   - post
 ---
-# 006. Habitual (Doodling)
+# 005. Habitual (Doodling)
 
 Thirty years ago I spent my university lectures drawing doodles instead of writing notes, and I could tell by the looks I got that this was not how things were done. At that time I didn't know why, but I knew that it worked. I was able to infuse the lines I drew with the essence of the lecture, and the content would remain in memory through the act of drawing.
 
