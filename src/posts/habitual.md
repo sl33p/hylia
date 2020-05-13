@@ -13,3 +13,7 @@ Thirty years ago I spent my university lectures drawing doodles instead of writi
 ![Doodles](/images/img_1846_h.jpg "mapping thoughts to patterns")
 
 At first I assumed it was just a way for me to concentrate, to channel all the attention towards the spoken word (just the way reading comics when eating your lunch made you appreciate the food more when you were 8). More recently I have realised that what I was doing was more akin to a process of mapping thoughts to patterns.
+
+Not quite a memory palace, this [https://en.wikipedia.org/wiki/Method_of_loci](method of loci) is creating the space rather than using *familiar spatial environments in order to enhance the recall of information*. As a result, (possibly, I'm not the [https://www.youtube.com/watch?v=I_AOfzrQYV0](brain specialist)), the patterns laid down are more disposable, their primary use is to create a landscape for remembering, the recall or reactivation of memories is of secondary importance. 
+
+It would be interesting to investigate if and how two dimensional spatial environments created in the moment could transition towards being familiar so that they could become a true aid and resource in the long term.
