@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Boring Shop
+title: Index of
 postsHeading: Latest posts
 archiveButtonText: See all posts
-socialImage: ''
+socialImage: ""
 ---
 </pre><img src="/images/nicklaspersson.png" alt="Nicklas Persson" style="width:150px;height:150px;">

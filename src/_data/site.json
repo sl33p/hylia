@@ -1,7 +1,7 @@
 {
   "showThemeCredit": false,
   "name": "Boring Shop",
-  "shortDesc": "A collection of blog posts",
+  "shortDesc": "A collection of blog posts and notes from the desk of Nicklas de León Persson",
   "url": "https://boring.shop",
   "authorEmail": "n@takete.com",
   "authorHandle": "@takete",
@@ -9,5 +9,5 @@
   "enableThirdPartyComments": false,
   "paymentPointer": "$coil.xrptipbot.com/c1f8f05d-8d8c-4f37-b1ad-25677ae129da",
   "faviconPath": "/images/favicon.png",
-  "maxPostsPerPage": 5
+  "maxPostsPerPage": 145
 }
