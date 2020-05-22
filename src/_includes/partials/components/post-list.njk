@@ -1,21 +1,22 @@
 {% if postListItems.length %}
   <section class="[ post-list ] [ pad-top-700 gap-bottom-900 ]">
     <div class="[ inner-wrapper ] [ sf-flow ]">
-      <h2 class="[ post-list__heading ] [ text-700 md:text-800 ]">{{ postListHeading }}</h2>
-      <ol class="[ post-list__items ] [ sf-flow ] [ pad-top-300 ]" reversed>
+      
+      <table style="padding:3px;" width="100%" border=1  class="[ post-list__items ] [ sf-flow ]" reversed><th colspan="2"><h2 class="[ post-list__heading ] [ text-700 md:text-800 ]">{{ postListHeading }}</h2></th>
         {% for item in postListItems %}
           {% if item.date.getTime() <= global.now %}
-            <li class="post-list__item">
-              <h3 class="font-base leading-tight text-600 weight-mid">
-                <a href="{{ item.url }}" class="post-list__link" rel="bookmark">{{ item.data.title }}</a>
-              </h3>
-              <p class="text-500 gap-top-300 weight-mid">
-                <time datetime="{{ item.date | w3DateFilter }}">{{ item.date | dateFilter }}</time>
-              </p>
-            </li>
+            <tr class="post-list__item">
+              <td class="font-base   weight-mid" style="padding:10px;">
+                <a href="{{ item.url }}" class="post-list__link" rel="bookmark">{{ item.data.title }}</a></td>
+                <td style="padding:10px;">
+                 <time datetime="{{ item.date | w3DateFilter }}">{{ item.date | dateFilter }}</time>
+              </td>
+
+
+            </tr>
           {% endif %}
         {% endfor %}
-      </ol>
+      </table>
     </div>
   </section>
 {% endif %}
